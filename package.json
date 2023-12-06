@@ -1,5 +1,5 @@
 {
-  "name": "solana-airdrop",
+  "name": "solana-airdrop-ts",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
